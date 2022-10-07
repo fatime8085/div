@@ -1,0 +1,47 @@
+.main{
+    width: 800px;
+    min-height: 600px;
+    /* background: #fcd200; */
+    float: left;
+   
+}
+.header{
+    width: 800px;
+    min-height: 70px;
+    background:#fcd200;
+    float: left;
+}
+.center{
+    width: 800px ;
+    min-height: 430px;
+    /* background: #fcd200; */
+    float: left;
+    margin: 15px 0px;
+}
+.nav{
+    width: 200px;
+    min-height: inherit;
+    background: #fcd200;
+    float: left;
+
+}
+.article{
+    width: 420px;
+    min-height: inherit;
+    background: #fcd200;
+    float: left;
+    margin: 0px 15px;
+
+}
+.ads{
+    width: 150px;
+    min-height: inherit;
+    background: #fcd200;
+    float: left;
+}
+.footer{
+    width: 800px;
+    min-height: 70px;
+    background: #fcd200;
+    float: left;
+}
